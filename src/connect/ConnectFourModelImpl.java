@@ -1,4 +1,3 @@
-
 package connect;
 
 
@@ -9,8 +8,8 @@ package connect;
  */
 public class ConnectFourModelImpl implements ConnectFourModel {
   private Player[][] board;
-  private int rows;
-  private int columns;
+  private final int rows;
+  private final int columns;
   private Player turn;
   private Player winner;
   private boolean gameOver;
