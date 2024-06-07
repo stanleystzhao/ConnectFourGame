@@ -2,6 +2,8 @@
 
 A GUI Conncet Four Game developed using MVC pattern. 
 
+Locally developed using IntelliJ.
+
 This is a game in which the players choose a color and then take turns dropping colored tokens into a six-row,
 seven-column vertically suspended grid. 
 The pieces fall straight down, occupying the lowest available space within the column. 
