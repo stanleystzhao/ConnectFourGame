@@ -10,5 +10,5 @@ The pieces fall straight down, occupying the lowest available space within the c
 The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own tokens.
 
 To run this game:
-Clone the repository and run the src/connect/Main.java
+Clone the repository and run the src/Main.java
 A game window should pop up.
